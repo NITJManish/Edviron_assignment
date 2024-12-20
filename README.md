@@ -46,7 +46,7 @@ Start the frontend server:
 
 npm start
 
-Notes
+Notes:
 
 Ensure that MongoDB is running and properly connected to the backend.
 
