@@ -1,0 +1,6 @@
+student_id,first_name,last_name,grade,age,email,phone
+1,John,Doe,10,15,john.doe@example.com,1234567890
+2,Jane,Smith,11,16,jane.smith@example.com,9876543210
+3,Sam,Williams,9,14,sam.williams@example.com,1122334455
+4,Sarah,Brown,12,17,sarah.brown@example.com,9988776655
+5,Michael,Johnson,10,15,michael.johnson@example.com,7788996655
